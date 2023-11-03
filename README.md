@@ -3,11 +3,11 @@ Bash script to install key devops tools locally.
 
 The bash script will install the following tools:
 
-nginx
-docker
-docker compose
-terraform
-ansible
-virtualbox
-kubernetes(minikube)
-kubectl
+* nginx
+* docker
+* docker compose
+* Terraform
+* Ansible
+* Virtualbox
+* Vubernetes(minikube)
+* kubectl
