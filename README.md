@@ -9,5 +9,5 @@ The bash script will install the following tools:
 * Terraform
 * Ansible
 * Virtualbox
-* Vubernetes(minikube)
+* Kubernetes(minikube)
 * kubectl
